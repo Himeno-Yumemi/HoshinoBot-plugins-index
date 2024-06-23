@@ -11,7 +11,7 @@
 | [300英雄战报](https://github.com/Himeno-Yumemi/300hero_record) | [@姬野梦美](https://github.com/Himeno-Yumemi) | 300英雄群友开庭插件 |2024-06-14 19:01:02|
 | [能不能好好说话](https://github.com/Fatfish588/nbnhhsh-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 能不能好好说话的Hoshino插件版 |2024-01-02 16:21:23|
 | [otto活字印刷](https://github.com/SlightDust/HuoZiYinShua_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 电棍活字印刷，基于[DSP-8192/HuoZiYinShua](https://github.com/DSP-8192/HuoZiYinShua)，参考了[Kazagumo/nonebot-HuoZiYinShua](https://github.com/Kazagumo/nonebot-HuoZiYinShua) |2024-02-09 23:23:53|
-| [抽动漫老婆](https://github.com/Rinco304/AnimeWife) | [@Rinco304](https://github.com/Rinco304) | 看看你今天的二次元老婆是谁 |2024-05-18 18:01:35|
+| [抽动漫老婆](https://github.com/Rinco304/AnimeWife) | [@Rinco304](https://github.com/Rinco304) | 看看你今天的二次元老婆是谁 |2024-06-16 20:43:13|
 | [今日人品2](https://github.com/Rinco304/Hoshino-jrrp2) | [@Rinco304](https://github.com/Rinco304) | 适用于HoshinoBot的带数据库可查询历史平均人品的jrrp插件 |2023-11-29 16:27:11|
 | [猜VTB](https://github.com/Rinco304/GuessVTB) | [@Rinco304](https://github.com/Rinco304) | 适用于HoshinoBot的猜虚拟主播头像插件 |2023-11-29 15:32:38|
 | [谁在kook语音](https://github.com/GaryDu0123/kook-who-in-voice-channel) | [@GaryDu0123](https://github.com/GaryDu0123)                 | 群友偷偷开黑? 看看谁在kook语音 |2023-11-24 22:56:08|
@@ -237,7 +237,7 @@
 | [clanbattle_report](https://github.com/zyujs/clanbattle_report) | [@zyujs](https://github.com/zyujs) | 生成yobot会战报告 |2021-06-15 10:25:32|
 | [clanbattle_rank](https://github.com/zyujs/clanbattle_rank) | [@zyujs](https://github.com/zyujs) | 国服会战排名查询和 推送 |2022-02-21 13:58:53|
 | [clanbattle_info](https://github.com/zyujs/clanbattle_info) | [@zyujs](https://github.com/zyujs) | 国服会战出刀信息推 送及yobot自动报刀 |2020-12-14 20:30:13|
-| [FF14](https://github.com/zangxx66/HoshinoBot-xcwRecord#pcr无关) <!--cont.-->| [@zangxx66](https://github.com/zangxx66) | 钓鱼笔记、钓鱼日记、钓鱼区域 |2022-11-22 21:09:39|
+| [FF14](https://github.com/zangxx66/HoshinoBot-xcwRecord#pcr无关) | [@zangxx66](https://github.com/zangxx66) | 钓鱼笔记、钓鱼日记、钓鱼区域 |2022-11-22 21:09:39|
 | [群管](https://github.com/zangxx66/HoshinoBot-xcwRecord#聊天) | [@zangxx66](https://github.com/zangxx66) | 迫害龙王、 申请头衔等 |2022-11-22 21:09:39|
 | [反哔哩哔哩小程序](https://github.com/zangxx66/HoshinoBot-xcwRecord#去你大爷的哔哩哔哩小程序) | [@zangxx66](https://github.com/zangxx66) | 关爱电脑党，将小程序转化为链接 |2022-11-22 21:09:39|
 | [骂我](https://github.com/zangxx66/HoshinoBot-xcwRecord#xcw再骂我一次) | [@zangxx66](https://github.com/zangxx66) | 播放 xcw 骂人语音 |2022-11-22 21:09:39|
