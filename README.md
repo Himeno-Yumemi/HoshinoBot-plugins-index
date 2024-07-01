@@ -154,7 +154,7 @@
 | [飞天大蟑螂](https://github.com/kosakarin/hoshino_big_cockroach) | [@kosakarin](https://github.com/kosakarin) | 发送白底有随机数量随机旋转角度的飞天大蟑螂图片，我的建议是：别用！ |2021-12-01 10:48:17|
 | [磁力链搜索](https://github.com/half-ghost/bt_search)|[@half-ghost](https://github.com/half-ghost)|磁力链搜索插件。好耶！再也不怕找不到车了！（|2023-02-22 00:41:48|
 | [奥利奥绘制](https://github.com/C-Jun-GIT/Oreo) | [@菌落](https://github.com/C-Jun-GIT/Oreo)  [@咕咕鸽](https://github.com/Adminicoder)| 通过排列组合来自定义属于自己的奥利奥吧！ |2022-08-12 08:10:25|
-| [战地1/5战绩查询(图片版)](https://github.com/half-ghost/bf_record_search)<!--cont.-->|[@half-ghost](https://github.com/half-ghost)|战地1、5战绩查询插件，以图片形式呈现|2022-05-19 02:03:34|
+| [战地1/5战绩查询(图片版)](https://github.com/half-ghost/bf_record_search)|[@half-ghost](https://github.com/half-ghost)|战地1、5战绩查询插件，以图片形式呈现|2022-05-19 02:03:34|
 | [答案之书](https://github.com/A-kirami/answersbook) | [@A-kirami](https://github.com/A-kirami) | 愿一切无解都有解！解除你的迷惑，终结你的纠结！ |2023-05-07 08:37:59|
 | [群聊词云生成](https://github.com/A-kirami/GroupWordCloudGenerator) | [@A-kirami](https://github.com/A-kirami) | 一个群/个人词云生成器，记录聊天记录并生成个人/群组词云 |2023-05-06 19:09:35|
 | [早安晚安](https://github.com/azmiao/good_morning) | [@azmiao](https://github.com/azmiao) | 哦哈哟！哦呀斯密！ |2023-03-26 13:59:13|
@@ -233,7 +233,7 @@
 | [pcr_calendar](https://github.com/zyujs/pcr_calendar) | [@zyujs](https://github.com/zyujs) | 推送和查询国/日/台服活动 日历 |2023-04-11 13:30:36|
 | [星乃调教助手](https://github.com/zyujs/hoshino_training) | [@zyujs](https://github.com/zyujs) | HoshinoBot功能定制 |2023-01-29 08:36:58|
 | [rss](https://github.com/zyujs/rss) | [@zyujs](https://github.com/zyujs) | 通用型rss订阅插件,地河喵kkp! |2021-08-26 19:37:42|
-| [setu_mix](https://github.com/zyujs/setu_mix) | [@zyujs](https://github.com/zyujs) | 懂的都懂 |2021-01-04 15:25:57|
+| [setu_mix](https://github.com/zyujs/setu_mix) <!--cont.-->| [@zyujs](https://github.com/zyujs) | 懂的都懂 |2021-01-04 15:25:57|
 | [clanbattle_report](https://github.com/zyujs/clanbattle_report) | [@zyujs](https://github.com/zyujs) | 生成yobot会战报告 |2021-06-15 10:25:32|
 | [clanbattle_rank](https://github.com/zyujs/clanbattle_rank) | [@zyujs](https://github.com/zyujs) | 国服会战排名查询和 推送 |2022-02-21 13:58:53|
 | [clanbattle_info](https://github.com/zyujs/clanbattle_info) | [@zyujs](https://github.com/zyujs) | 国服会战出刀信息推 送及yobot自动报刀 |2020-12-14 20:30:13|
