@@ -10,7 +10,7 @@
 | --- | --- | --- | :---: |
 | [300英雄战报](https://github.com/Himeno-Yumemi/300hero_record) | [@姬野梦美](https://github.com/Himeno-Yumemi) | 300英雄群友开庭插件 |2024-07-16 15:13:30|
 | [能不能好好说话](https://github.com/Fatfish588/nbnhhsh-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 能不能好好说话的Hoshino插件版 |2024-01-02 16:21:23|
-| [otto活字印刷](https://github.com/SlightDust/HuoZiYinShua_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 电棍活字印刷，基于[DSP-8192/HuoZiYinShua](https://github.com/DSP-8192/HuoZiYinShua)，参考了[Kazagumo/nonebot-HuoZiYinShua](https://github.com/Kazagumo/nonebot-HuoZiYinShua) |2024-02-09 23:23:53|
+| [otto活字印刷](https://github.com/SlightDust/HuoZiYinShua_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 电棍活字印刷，基于[DSP-8192/HuoZiYinShua](https://github.com/DSP-8192/HuoZiYinShua)，参考了[Kazagumo/nonebot-HuoZiYinShua](https://github.com/Kazagumo/nonebot-HuoZiYinShua) |2024-10-02 12:34:19|
 | [抽动漫老婆](https://github.com/Rinco304/AnimeWife) | [@Rinco304](https://github.com/Rinco304) | 看看你今天的二次元老婆是谁 |2024-06-16 20:43:13|
 | [今日人品2](https://github.com/Rinco304/Hoshino-jrrp2) | [@Rinco304](https://github.com/Rinco304) | 适用于HoshinoBot的带数据库可查询历史平均人品的jrrp插件 |2023-11-29 16:27:11|
 | [猜VTB](https://github.com/Rinco304/GuessVTB) | [@Rinco304](https://github.com/Rinco304) | 适用于HoshinoBot的猜虚拟主播头像插件 |2023-11-29 15:32:38|
@@ -241,7 +241,7 @@
 | [群管](https://github.com/zangxx66/HoshinoBot-xcwRecord#聊天) | [@zangxx66](https://github.com/zangxx66) | 迫害龙王、 申请头衔等 |2022-11-22 21:09:39|
 | [反哔哩哔哩小程序](https://github.com/zangxx66/HoshinoBot-xcwRecord#去你大爷的哔哩哔哩小程序) | [@zangxx66](https://github.com/zangxx66) | 关爱电脑党，将小程序转化为链接 |2022-11-22 21:09:39|
 | [骂我](https://github.com/zangxx66/HoshinoBot-xcwRecord#xcw再骂我一次) | [@zangxx66](https://github.com/zangxx66) | 播放 xcw 骂人语音 |2022-11-22 21:09:39|
-| [海豹杀手](https://github.com/GWYOG/GWYOG-Hoshino-plugins#9-海豹杀手pcrsealkiller) <!--cont.-->| [@GWYOG](https://github.com/GWYOG) | 禁言晒卡 |2022-09-16 01:46:14|
+| [海豹杀手](https://github.com/GWYOG/GWYOG-Hoshino-plugins#9-海豹杀手pcrsealkiller) | [@GWYOG](https://github.com/GWYOG) | 禁言晒卡 |2022-09-16 01:46:14|
 | [戳一戳集卡](https://github.com/GWYOG/GWYOG-Hoshino-plugins#8-戳机器人集卡小游戏pokemanpcr) | [@GWYOG](https://github.com/GWYOG) | |2022-09-16 01:46:14|
 | [反并发](https://github.com/GWYOG/GWYOG-Hoshino-plugins#7-反并发插件anticoncurrency) | [@GWYOG](https://github.com/GWYOG) | 阻止多个小游戏同时进行 |2022-09-16 01:46:14|
 | [记忆小游戏](https://github.com/GWYOG/GWYOG-Hoshino-plugins#6-公主连结记忆小游戏pcrmemorygames) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
