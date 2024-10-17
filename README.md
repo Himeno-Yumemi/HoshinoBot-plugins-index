@@ -62,7 +62,7 @@
 | [招募队友](https://github.com/Lanly109/teamup) | [@Lanly109](https://github.com/Lanly109) | 发布招募帖，寻找队友 |2023-08-29 17:44:48|
 | [带包控制的多合一运势插件](https://github.com/PerfBleu/portune2) | [@PerfBleu](https://github.com/PerfBleu) | 带简易分群包控制的多合一运势插件 |2022-10-28 11:34:57|
 | [摸鱼日历](https://github.com/SonderXiaoming/dailymoyu) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 非常简单的摸鱼插件 |2022-12-09 04:09:12|
-|[网络天才](https://github.com/HMScygnet/akinator)|[@HMScygnet](https://github.com/HMScygnet)|网络天才小游戏，可以猜出你心里想的人物|2022-09-14 15:15:51|
+|[网络天才](https://github.com/HMScygnet/akinator)<!--cont.-->|[@HMScygnet](https://github.com/HMScygnet)|网络天才小游戏，可以猜出你心里想的人物|2022-09-14 15:15:51|
 |[魔改版的pcrjjc2](https://github.com/Syne-lucky/pcrjjc2)|[@Syne-lucky](https://github.com/Syne-lucky)|可绑多uid、可私聊/群聊通知、多线程、自动过验证码。|2022-11-12 22:37:58|
 | [pcr攻略](https://github.com/SonderXiaoming/auto_strategy) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动更新的pcr攻略插件 |2022-11-05 10:02:29|
 |[反馈与回复](https://github.com/pcrbot/feedback-and-reply)|[@chu3](https://github.com/chu3)|带回复功能的来杯咖啡|2022-09-16 17:37:00|
