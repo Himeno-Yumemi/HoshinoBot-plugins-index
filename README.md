@@ -120,8 +120,8 @@
 | [插件管理](https://github.com/BlueDeer233/Hoshino-PluginManager) | [@BlueDeer233](https://github.com/BlueDeer233) | 适用于hoshinobot的简易插件管理插件，支持插件的热加载、热卸载与热重载 |2022-03-24 22:39:41|
 | [怎么拆截图版](https://github.com/watermellye/arena) | [@ellye](https://github.com/watermellye) | 对jjc进攻阵容查询增加截图查询功能。支持全屏和部分截图；当截图中含有多队时返回无冲配队。 |2024-06-11 22:07:04|
 | [反广告插件-GGNMSL](https://github.com/Akagicv/GGNMSL) | [@Akagi_cv](https://github.com/Akagicv) | 基于海豹杀手pcrsealkiller插件思路制作的关键词匹配/图片文字识别/二维码链接识别的反广告插件。 |2022-09-29 19:43:20|
-| [全局开关](https://github.com/Zoe-Wh1t3zZ/Switch/) <!--cont.-->| [@Zoe新小白白白](https://github.com/Zoe-Wh1t3zZ/) [@Jaco](https://github.com/Jacosnow/) | 基于hoshino的(伪)全局开关，通过拉黑群实现休眠。 |2022-03-11 09:43:22|
-| [赛马娘插件v2](https://github.com/azmiao/uma_plugin) | [@azmiao](https://github.com/azmiao) | > 王婆卖瓜，自卖自夸，插件好用！<br>> 插件一个更比十个强，物美价廉，你，值得拥有！ |2025-01-23 14:04:20|
+| [全局开关](https://github.com/Zoe-Wh1t3zZ/Switch/) | [@Zoe新小白白白](https://github.com/Zoe-Wh1t3zZ/) [@Jaco](https://github.com/Jacosnow/) | 基于hoshino的(伪)全局开关，通过拉黑群实现休眠。 |2022-03-11 09:43:22|
+| [赛马娘插件v2](https://github.com/azmiao/uma_plugin) | [@azmiao](https://github.com/azmiao) | > 王婆卖瓜，自卖自夸，插件好用！<br>> 插件一个更比十个强，物美价廉，你，值得拥有！ |2025-02-11 16:47:17|
 | [Hoshinobot-plugin-petpet](https://github.com/chingkingm/Hoshinobot-plugin-petpet) | [@MeetWq](https://github.com/MeetWq)[@chingkingm](https://github.com/chingkingm) | 移植自[nonebot-plugin-petpet](https://github.com/MeetWq/nonebot-plugin-petpet)的头像表情包生成器|2022-06-21 21:38:27|
 |[steam_crawler_botV2](https://github.com/half-ghost/steam_crawler_botV2) | [@half-ghost](https://github.com/half-ghost) | steam_crawler_bot插件第二版，新增了一些功能|2023-11-07 09:29:50|
 | [pcrjjc3](https://github.com/azmiao/pcrjjc3-tw) | [@cc004](https://github.com/cc004)[@azmiao](https://github.com/azmiao)[@CYDXDianXian](https://github.com/CYDXDianXian) | 由pcrjjc2修改而来的适用pcr台服的竞技场插件，额外支持了多服查询 |2023-06-20 14:30:10|
@@ -214,7 +214,7 @@
 | [扫雷游戏](https://github.com/eggggi/mine_sweeper) | [@eggggi](https://github.com/eggggi) | 群内小游戏 |2023-01-05 11:37:39|
 | [群昵称同步](https://github.com/wosiwq/groupname_sync) | [@wosiwq](https://github.com/wosiwq) | 可自动同步yobot中的周 目与第几个王到群昵称，方便的提醒群员进度 |2021-05-27 20:31:41|
 | [计算jjc排名爬升排名的最优解](https://github.com/wbero/pcrjjc_optimal-path) | [@wbero](https://github.com/wbero) | 计 算jjc排名爬升排名的最优解 |2021-05-18 14:31:09|
-| [出刀贡献以权重来计算排名](https://github.com/Tcelps/pcr_maofen) | [@Tcelps](https://github.com/Tcelps) | 人为地判断难度并给不同周目不同boss分别设置权重，给群员们的贡献排名 |2021-05-14 09:33:35|
+| [出刀贡献以权重来计算排名](https://github.com/Tcelps/pcr_maofen) <!--cont.-->| [@Tcelps](https://github.com/Tcelps) | 人为地判断难度并给不同周目不同boss分别设置权重，给群员们的贡献排名 |2021-05-14 09:33:35|
 | [最优击剑路径](https://github.com/wosiwq/arena_route) | [@wosiwq](https://github.com/wosiwq) | 可自动计算竞技场的最优 击剑路径 |2021-05-15 18:59:45|
 | [赛马娘新闻播报](https://github.com/azmiao/umamusume_news) | [@azmiao](https://github.com/azmiao) | 赛马娘新闻播报插件（大佬们快去写插件，别养马了） |2022-06-19 21:16:51|
 | [今天吃什么](https://github.com/A-kirami/whattoeat) | [@A-kirami](https://github.com/A-kirami) | 今天吃什么天吃什么吃什 么什么么 |2023-05-07 08:33:45|
