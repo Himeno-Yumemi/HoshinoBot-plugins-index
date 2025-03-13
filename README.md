@@ -63,7 +63,7 @@
 | [带包控制的多合一运势插件](https://github.com/PerfBleu/portune2) | [@PerfBleu](https://github.com/PerfBleu) | 带简易分群包控制的多合一运势插件 |2022-10-28 11:34:57|
 | [摸鱼日历](https://github.com/SonderXiaoming/dailymoyu) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 非常简单的摸鱼插件 |2025-01-17 13:56:19|
 |[网络天才](https://github.com/HMScygnet/akinator)|[@HMScygnet](https://github.com/HMScygnet)|网络天才小游戏，可以猜出你心里想的人物|2022-09-14 15:15:51|
-|[魔改版的pcrjjc2](https://github.com/Syne-lucky/pcrjjc2)<!--cont.-->|[@Syne-lucky](https://github.com/Syne-lucky)|可绑多uid、可私聊/群聊通知、多线程、自动过验证码。|2022-11-12 22:37:58|
+|[魔改版的pcrjjc2](https://github.com/Syne-lucky/pcrjjc2)|[@Syne-lucky](https://github.com/Syne-lucky)|可绑多uid、可私聊/群聊通知、多线程、自动过验证码。|2022-11-12 22:37:58|
 | [pcr攻略](https://github.com/SonderXiaoming/auto_strategy) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动更新的pcr攻略插件 |2022-11-05 10:02:29|
 |[反馈与回复](https://github.com/pcrbot/feedback-and-reply)|[@chu3](https://github.com/chu3)|带回复功能的来杯咖啡|2022-09-16 17:37:00|
 |[又一个多角色语音合成插件](https://github.com/pcrbot/voice_generate)|[@corvo007](https://github.com/corvo007)|如名字所示|2022-09-11 23:07:16|
@@ -100,7 +100,7 @@
 | [数字恶臭化插件](https://github.com/SonderXiaoming/homo) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 将任意数字以114514表示 |2022-05-24 13:39:57|
 | [头像表情包生成器](https://github.com/Lanly109/headimg_generator) | [@Lanly109](https://github.com/Lanly109) | 移植自[nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)的头像表情包生成器 |2025-01-12 13:40:05|
 | [xqa](https://github.com/azmiao/XQA) | [@azmiao](https://github.com/azmiao) | 一个支持正则，支持回流，支持随机回答，支持图片等CQ码的你问我答 |2025-02-26 15:30:42|
-| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2025-02-27 14:16:48|
+| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2025-03-11 14:29:05|
 | [帮助网页版](https://github.com/SonderXiaoming/autohelp) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动生成帮助网页 |2022-08-13 10:19:54|
 | [丁真插件](https://github.com/Pr0pHesyer/RandomDingzhen) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取丁真梗图 |2022-05-15 15:44:48|
 | [音游一言](https://github.com/Pr0pHesyer/MUG_one_sentence) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取及修改有关音游的一言 |2022-05-07 20:42:56|
@@ -119,7 +119,7 @@
 | [麻将猜手牌](https://github.com/yuyumoko/mahjong-hand-guess) | [@yuyumoko](https://github.com/yuyumoko) | 麻将猜手牌小游戏~ |2022-05-24 03:26:28|
 | [插件管理](https://github.com/BlueDeer233/Hoshino-PluginManager) | [@BlueDeer233](https://github.com/BlueDeer233) | 适用于hoshinobot的简易插件管理插件，支持插件的热加载、热卸载与热重载 |2022-03-24 22:39:41|
 | [怎么拆截图版](https://github.com/watermellye/arena) | [@ellye](https://github.com/watermellye) | 对jjc进攻阵容查询增加截图查询功能。支持全屏和部分截图；当截图中含有多队时返回无冲配队。 |2024-06-11 22:07:04|
-| [反广告插件-GGNMSL](https://github.com/Akagicv/GGNMSL) | [@Akagi_cv](https://github.com/Akagicv) | 基于海豹杀手pcrsealkiller插件思路制作的关键词匹配/图片文字识别/二维码链接识别的反广告插件。 |2022-09-29 19:43:20|
+| [反广告插件-GGNMSL](https://github.com/Akagicv/GGNMSL) <!--cont.-->| [@Akagi_cv](https://github.com/Akagicv) | 基于海豹杀手pcrsealkiller插件思路制作的关键词匹配/图片文字识别/二维码链接识别的反广告插件。 |2022-09-29 19:43:20|
 | [全局开关](https://github.com/Zoe-Wh1t3zZ/Switch/) | [@Zoe新小白白白](https://github.com/Zoe-Wh1t3zZ/) [@Jaco](https://github.com/Jacosnow/) | 基于hoshino的(伪)全局开关，通过拉黑群实现休眠。 |2022-03-11 09:43:22|
 | [赛马娘插件v2](https://github.com/azmiao/uma_plugin) | [@azmiao](https://github.com/azmiao) | > 王婆卖瓜，自卖自夸，插件好用！<br>> 插件一个更比十个强，物美价廉，你，值得拥有！ |2025-02-11 16:47:17|
 | [Hoshinobot-plugin-petpet](https://github.com/chingkingm/Hoshinobot-plugin-petpet) | [@MeetWq](https://github.com/MeetWq)[@chingkingm](https://github.com/chingkingm) | 移植自[nonebot-plugin-petpet](https://github.com/MeetWq/nonebot-plugin-petpet)的头像表情包生成器|2022-06-21 21:38:27|
