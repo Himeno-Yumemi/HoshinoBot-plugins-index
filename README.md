@@ -85,7 +85,7 @@
 | [give_me_some_heis](https://github.com/Gaylone/give_me_some_heis) | [@Gaylone](https://github.com/Gaylone)| 麻溜滴，来点黑丝/白丝/jk/巨r/网红/足控三次元美图 |2022-07-25 22:44:41|
 | [HosBotManagerWeb](https://github.com/pcrbot/HosBotManagerWeb) | [@LQBing](https://github.com/LQBing)[@shewinder](https://github.com/shewinder) | 由[网页开关](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/webServiceManager)修改而来的hoshinobot服务管理网页版，支持多cq端 |2022-07-22 16:21:40|
 | [DOTA2战绩推送](https://github.com/joeyHXD/dota2_watcher_bot) | [@joeyHXD](https://github.com/joeyHXD) | 基于[CSGO和DOTA2的处刑BOT](https://github.com/greenhaha/dota2_csgo_watcher_bot)魔改而来的DOTA2战绩推送插件 |2024-08-29 00:08:35|
-| [PSO2NGS](https://github.com/cpms/pso2) <!--cont.-->| [@cpm](https://github.com/cpms)| 基于 [rss 订阅插件](https://github.com/zyujs/rss)魔改而来的 PSO2NGS（梦幻之星 ONLINE2 新纪元）HoshinoBot V2 插件|2024-08-11 13:32:00|
+| [PSO2NGS](https://github.com/cpms/pso2) | [@cpm](https://github.com/cpms)| 基于 [rss 订阅插件](https://github.com/zyujs/rss)魔改而来的 PSO2NGS（梦幻之星 ONLINE2 新纪元）HoshinoBot V2 插件|2024-08-11 13:32:00|
 | [每日番剧推送](https://github.com/benx1n/everyday-bangumi) | [@benx1n](https://github.com/benx1n)| 带大陆版权站的每日番剧查询和自动推送|2023-05-11 09:20:31|
 | [Daily_News](https://github.com/InSnocent/Daily_News) | [@InSnocent](https://github.com/InSnocent)| 适用于HoshinoBot的每日一句话新闻(和另一个插件采用的不一样的来源) |2025-03-13 17:56:56|
 | [明日方舟抽卡+蹲饼](https://github.com/xulai1001/akgacha) | [@库兰](https://github.com/xulai1001/) | 明日方舟抽卡-自动蹲饼-素材一图流和DPS查询 |2022-09-11 22:46:00|
@@ -139,7 +139,7 @@
 | [派蒙语言库](https://github.com/3273576540/botchat) | [@Zoe新小白白白](https://github.com/3273576540) | 找了一些多多屁的语音合并到bot语言库 |2022-12-18 20:25:58|
 | [随机疯狂星期四文案](https://github.com/Nicr0n/fucking_crazy_thursday) | [@Nicr0n](https://github.com/Nicr0n) | 一个简单的随机疯狂星期四文案插件 |2022-06-24 09:53:31|
 | [幻影坦克生成器](https://github.com/kosakarin/hide_img) | [@kosakarin](https://github.com/kosakarin) | 发送两张图片生成幻影坦克 |2022-01-01 19:34:19|
-| [游戏开黑](https://github.com/kosakarin/play_together) | [@kosakarin](https://github.com/kosakarin) | 辅助群内开黑，可以记录群内开了哪些车 |2022-09-28 15:27:31|
+| [游戏开黑](https://github.com/kosakarin/play_together) <!--cont.-->| [@kosakarin](https://github.com/kosakarin) | 辅助群内开黑，可以记录群内开了哪些车 |2022-09-28 15:27:31|
 | [游戏王印卡](https://github.com/N-zi/mahoo) | [@N-zi](https://github.com/N-zi) | 游戏王卡图生成 |2022-08-01 18:05:25|
 | [我朋友说](https://github.com/kosakarin/I_have_a_friend) | [@kosakarin](https://github.com/kosakarin) | 我这朋友说不定是我自己 |2022-08-22 13:27:50|
 | [在线运行代码](https://github.com/CMHopeSunshine/codeonline) | [@CMHopeSunshine](https://github.com/CMHopeSunshine) | 基于glot.io的bot运行代码插件 |2022-03-21 15:02:50|
