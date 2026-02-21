@@ -176,7 +176,7 @@
 | [网易云音乐直链下载](https://github.com/haha114514/netease_down) |[@haha114514](https://github.com/haha114514) | 适用于HoshinoBot的获取网易云音乐歌曲下载链接|2022-01-09 23:12:02|
 | [Tarot](https://github.com/haha114514/tarot_hoshino) | 修改为Hoshinobot版：[@haha114514](https://github.com/haha114514)   源代码：[@realhyy](https://github.com/realhyy)  | 适用于HoshinoBot的哔哩哔哩主题塔罗牌抽签(灵感来自于https://github.com/loli-fish/destiny_tarrot-CQnonebot ）|2022-10-28 21:47:32|
 | [lifeRestart_bot](https://github.com/DaiShengSheng/lifeRestart_bot) | [@DaiShengSheng](https://github.com/DaiShengSheng) | 适用于HoshinoBot的人生重来模拟器(remake.jpg) |2021-10-06 18:53:56|
-| [LocalSetu](https://github.com/pcrbot/LocalSetu) <!--cont.-->| [@benx1n](https://github.com/benx1n) | 可协同维护图库质量的本地setu插件，支持私聊上传、自动审核、获取P站TAG、原画 |2022-07-16 02:34:21|
+| [LocalSetu](https://github.com/pcrbot/LocalSetu) | [@benx1n](https://github.com/benx1n) | 可协同维护图库质量的本地setu插件，支持私聊上传、自动审核、获取P站TAG、原画 |2022-07-16 02:34:21|
 | [Hoshino语音增强](https://github.com/Soung2279/advance_R) | [@Soung2279](https://github.com/Soung2279) | 通过修改R.py文件，实现Hoshino使用R模块调用语音 |2021-08-26 20:24:59|
 | [AI对话](https://github.com/pcrbot/aichat) | [@HMScygnet](https://github.com/HMScygnet) | 由腾讯自然语言处理api实现的AI对话插件 |2021-09-15 21:24:47|
 | [假期查询](https://github.com/pcrbot/holiday) | [@HMScygnet](https://github.com/HMScygnet) | 用来查询假期与调休的插件 |2021-08-25 00:04:36|
@@ -271,7 +271,7 @@
 | [点歌](https://github.com/pcrbot/music) | [@laipz8200](https://github.com/laipz8200) | |2021-09-03 15:04:24|
 | [steam](https://github.com/pcrbot/steam) | [@wdvxdr1123](https://github.com/wdvxdr1123) | ~~“群主正在游玩猫娘乐园”~~ |2024-03-24 04:01:17|
 | [公会战筛刀](https://github.com/pcrbot/filter_knife) | [@H-K-Y](https://github.com/H-K-Y) | |2021-08-18 03:01:47|
-| [原神插件](https://github.com/pcrbot/Genshin_Impact_bot) | [@H-K-Y](https://github.com/H-K-Y) | 抽卡、找神瞳、丘丘语翻译、资源位置查询 |2021-07-24 11:30:32|
+| [原神插件](https://github.com/pcrbot/Genshin_Impact_bot) <!--cont.-->| [@H-K-Y](https://github.com/H-K-Y) | 抽卡、找神瞳、丘丘语翻译、资源位置查询 |2021-07-24 11:30:32|
 | [rua](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/rua) | [@shewinder](https://github.com/shewinder) | 发送一张搓群友头像的 gif 图片 |2021-03-06 22:03:52|
 | [接头](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/concatHead) | [@shewinder](https://github.com/shewinder) | 人脸识别自动接臭鼬头 |2021-03-06 22:03:52|
 | [涩图](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/setu) | [@shewinder](https://github.com/shewinder) | 曾用名：shebot |2021-03-06 22:03:52|
