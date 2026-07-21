@@ -175,7 +175,7 @@
 | [生草图片生成器](https://github.com/BlueDeer233/image_generator) |[@BlueDeer233](https://github.com/BlueDeer233) | 集成了多种图像生成器的插件|2022-05-07 21:05:21|
 | [网易云音乐直链下载](https://github.com/haha114514/netease_down) |[@haha114514](https://github.com/haha114514) | 适用于HoshinoBot的获取网易云音乐歌曲下载链接|2022-01-09 23:12:02|
 | [Tarot](https://github.com/haha114514/tarot_hoshino) | 修改为Hoshinobot版：[@haha114514](https://github.com/haha114514)   源代码：[@realhyy](https://github.com/realhyy)  | 适用于HoshinoBot的哔哩哔哩主题塔罗牌抽签(灵感来自于https://github.com/loli-fish/destiny_tarrot-CQnonebot ）|2022-10-28 21:47:32|
-| [lifeRestart_bot](https://github.com/DaiShengSheng/lifeRestart_bot) <!--cont.-->| [@DaiShengSheng](https://github.com/DaiShengSheng) | 适用于HoshinoBot的人生重来模拟器(remake.jpg) |2021-10-06 18:53:56|
+| [lifeRestart_bot](https://github.com/DaiShengSheng/lifeRestart_bot) | [@DaiShengSheng](https://github.com/DaiShengSheng) | 适用于HoshinoBot的人生重来模拟器(remake.jpg) |2021-10-06 18:53:56|
 | [LocalSetu](https://github.com/pcrbot/LocalSetu) | [@benx1n](https://github.com/benx1n) | 可协同维护图库质量的本地setu插件，支持私聊上传、自动审核、获取P站TAG、原画 |2022-07-16 02:34:21|
 | [Hoshino语音增强](https://github.com/Soung2279/advance_R) | [@Soung2279](https://github.com/Soung2279) | 通过修改R.py文件，实现Hoshino使用R模块调用语音 |2021-08-26 20:24:59|
 | [AI对话](https://github.com/pcrbot/aichat) | [@HMScygnet](https://github.com/HMScygnet) | 由腾讯自然语言处理api实现的AI对话插件 |2021-09-15 21:24:47|
@@ -247,7 +247,7 @@
 | [记忆小游戏](https://github.com/GWYOG/GWYOG-Hoshino-plugins#6-公主连结记忆小游戏pcrmemorygames) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
 | [午间音乐](https://github.com/GWYOG/GWYOG-Hoshino-plugins#5-公主连结午间音乐pcrmiddaymusic) | [@GWYOG](https://github.com/GWYOG) | |2022-09-16 01:46:14|
 | [nga](https://github.com/GWYOG/GWYOG-Hoshino-plugins#4-nga会战爬虫ngaclanbattlespider) | [@GWYOG](https://github.com/GWYOG) | 监控推送论坛关键词 |2022-09-16 01:46:14|
-| [bilibili](https://github.com/GWYOG/GWYOG-Hoshino-plugins#3-b站搜索爬虫bilisearchspider) | [@GWYOG](https://github.com/GWYOG) | 监控推送视频关键词 |2022-09-16 01:46:14|
+| [bilibili](https://github.com/GWYOG/GWYOG-Hoshino-plugins#3-b站搜索爬虫bilisearchspider) <!--cont.-->| [@GWYOG](https://github.com/GWYOG) | 监控推送视频关键词 |2022-09-16 01:46:14|
 | [猜头像](https://github.com/GWYOG/GWYOG-Hoshino-plugins#2-猜头像小游戏插件pcravatarguess) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
 | [猜角色](https://github.com/GWYOG/GWYOG-Hoshino-plugins#1-猜角色小游戏插件pcrdescguess) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
 | [YoCool](https://github.com/A-kirami/YoCool-Console) | [@A-kirami](https://github.com/A-kirami) | Hoshino 插件化的 YoCool 控制台 |2021-04-27 04:54:28|
